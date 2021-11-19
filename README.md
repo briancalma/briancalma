@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briancalma
 - 👀 I’m interested in developing softwares that can somehow make the world a better place!
-- 🌱 I’m currently learning LARAVEL + VUE
+- 🌱 I’m currently using LARAVEL + VUE , while learning REACT.
 - 💞️ I’m looking to collaborate on Web Apps with cool backend technologies
 - 📫 You can reach me with my email briancalmadevacc@gmail.com
 
