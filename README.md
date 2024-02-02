@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brian Calma</h1>
-<h3 align="center">An Aspiring Software Engineer from the Philippines</h3>
+<h3 align="center">A Software Engineer from the Philippines</h3>
 
-- 🔭 I’m currently working on [autofix](https://github.com/briancalma/autofix-api)
+- 🔭 I’m currently working on my passion projects.
 
-- 🌱 I’m currently learning **React, React Native and other JS Related technologies**
+- 🌱 I’m currently using **React, React Native, and other JS Related technologies** and studying Spring boot. 
 
-- 💬 Ask me about **Laravel, PHP, JS , HTML, CSS3, MYSQL, Ubuntu, React**
+- 💬 Ask me about **Laravel, PHP, JS , HTML, CSS3, Ubuntu, React**
 
 - 📫 How to reach me **briancalmadevacc@gmail.com**
 
